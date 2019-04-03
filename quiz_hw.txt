@@ -1,0 +1,31 @@
+Polymorphism & Composition Homework - Quiz
+
+Polymorphism
+What does the word 'polymorphism' mean?
+-Polymorphism is the ability of an object to take on many forms.
+
+What does it mean when we apply polymorphism to OO design? Give a simple Java example.
+-When a parent class reference is used to refer to a child class object. Any Java object that can pass more than one IS-A test is considered to be polymorphic.
+
+What can we use to implement polymorphism in Java?
+-Interfaces.
+
+How many 'forms' can an object take when using polymorphism?
+-Multiple forms.
+
+Give an example of when you could use polymorphism.
+-
+
+
+Composition
+What do we mean by 'composition' in reference to object-oriented programming?
+-It describes a class that references one or more objects of other classes in instance variables. This allows you to model a has-a association between objects.
+
+When would you use composition? Provide a simple example in Java.
+-When you have more than one subclass to be related.
+
+What is/are the advantage(s) of using composition?
+-To use multiple relations between objects.
+
+When an object is destroyed, what happens to all the objects it is composed of?
+-You have to modified them. Because the code could be corrupted.
